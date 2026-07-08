@@ -1,0 +1,218 @@
+broad_category_slug,sub_category,micro_niche,my_fit,content_fit,logistics_risk,compliance_risk,selection_mode,selection_note,starter_keywords
+beauty-personal-care,Skincare,Brightening serum,high,5,2,3,video_search,Before-after and problem-solution content works well,serum|dark spot serum|brightening serum
+beauty-personal-care,Makeup,Lip combo set,high,5,2,2,video_live,Sets and shades make good demo content,lip tint|lip gloss set|lip combo|gincu|lipstick|lip gloss|foundation|bedak asas|compact powder|bedak kompak|powder cake|matte stick
+beauty-personal-care,Eye makeup,Waterproof eyeliner,high,5,1,2,video_search,Simple proof-driven demo and low ticket,eyeliner|waterproof liner|mascara
+beauty-personal-care,Haircare,Hair oil and scalp care,high,4,2,2,video_live,Hair-fall and shine hooks convert well,hair oil|scalp serum|hair mist|shampoo|hair treatment|anti hair fall|anti rambut gugur|keratin|rebonding|daun kari
+beauty-personal-care,Body care,Deodorant and body scrub,high,4,2,2,video_search,Repeat-buy potential is strong,body scrub|deodorant cream|body lotion
+beauty-personal-care,Beauty tools,Brushes and puffs,medium,4,1,1,search_bundle,Cheap bundle add-ons can work but are crowded,makeup brush|powder puff|eyelash curler
+muslim-fashion,Modest tops,Blouse muslimah,high,5,3,2,video_live,Easy try-on content and broad demand,blouse muslimah|modest blouse|long top
+muslim-fashion,Traditional sets,Baju kurung set,high,5,3,2,video_live,Very strong seasonal and festive angle,baju kurung|kurung moden|kurung set
+muslim-fashion,Headwear,Instant tudung,high,5,2,1,video_search,Fast styling content performs well,tudung|shawl instant|hijab instant
+muslim-fashion,Homewear,Kaftan and lounge modest wear,high,4,2,1,video_live,Comfort angle broadens demand beyond festive periods,kaftan|kaftan tidur|jubah santai
+muslim-fashion,Prayer wear,Telekung and prayer sets,medium,4,3,1,search_live,Useful category with strong local fit but less impulse-led,telekung|mukena|prayer set
+muslim-fashion,Underscarf accessories,Ciput and pins,medium,4,1,1,search_bundle,Good basket-builder but usually add-on rather than hero item,ciput|brooch tudung|pin shawl
+food-beverages,Snacks,Halal chips and crackers,high,4,2,4,video_search,Simple tasting hooks and low ticket work well,halal snack|chips|crackers
+food-beverages,Local treats,Pickled fruit and sour snacks,high,4,2,4,video_live,Local flavor angle is strong in MY,jeruk mangga|asam snack|pickled fruit
+food-beverages,Instant meals,Noodles and pasta kits,high,4,2,4,video_search,Quick-prep demos are effective,instant spaghetti|instant noodle|meal kit|spaghetti|spageti|pasta|carbonara|bolognese|mayora
+food-beverages,Beverages,Coffee and drink sachets,high,4,2,4,search_bundle,Strong repeat-buy and bundle logic,coffee sachet|matcha sachet|drink mix
+food-beverages,Condiments,Sambal and sauces,medium,4,2,4,video_search,Taste-led content can work if trust is built,sambal|chili sauce|seasoning paste
+food-beverages,Dessert mixes,Baking and sweet mixes,medium,3,2,4,video_live,Works better when recipe content is strong,brownie mix|dessert mix|pancake premix|cookies|biskut|soft cookies|cookie
+health,Dietary supplements,Daily vitamin gummies,medium,3,1,5,search_review,Check claims and compliance carefully,vitamin gummies|multivitamin|daily supplement
+health,Beauty ingestibles,Collagen drinks and powders,medium,3,2,5,video_search,High demand but claims scrutiny is high,collagen drink|collagen powder|beauty drink
+health,Fiber and digestion,Fiber gummies and probiotics,medium,3,1,5,search_review,Useful but sensitive claims require caution,fiber gummies|probiotic|digestive support
+health,Sleep and stress,Calming and sleep support,low,2,1,5,review_led,Do not push hard claims without validation,sleep support|calming gummies|relax support
+health,Topical wellness,Patches and external care,medium,3,1,4,video_search,External-use items are usually easier than ingestibles,heat patch|pain relief patch|cooling patch
+textiles,Bedding,Bedsheets and fitted sheets,high,4,3,1,video_search,Bundle and room-refresh content work well,bedsheet|fitted sheet|bed cover
+textiles,Pillow and blanket,Blankets and pillowcases,medium,3,3,1,search_bundle,Good add-on category with bundle logic,pillowcase|blanket|comforter|bantal|bolster|bantal peluk|bantal guling|bantal golek
+textiles,Bath textiles,Towels and bath sets,medium,3,2,1,search_bundle,Useful and repeat-buy friendly,towel|bath towel|hand towel
+textiles,Prayer textiles,Prayer mats and covers,medium,4,2,1,video_search,Useful local angle but narrower than bedding,sejadah|prayer mat|prayer cover
+textiles,Window fabrics,Curtains and tiebacks,low,2,4,1,search_only,Bulkier and more style-sensitive,curtain|blackout curtain|curtain tie|langsir|tirai|ring|hook|velcro|cabinet curtain
+home-supplies,Storage,Drawer and closet organizers,high,5,2,1,video_search,Transformation content is strong,organizer|drawer organizer|storage box
+home-supplies,Cleaning,Brushes and wiping tools,high,4,1,1,video_search,Demonstrable and low ticket,cleaning brush|magic sponge|wiper
+home-supplies,Laundry,Drying and washing accessories,medium,4,2,1,video_search,Functional hooks work well,laundry basket|hanger|laundry bag
+home-supplies,Bathroom,Toiletry and sink organizers,medium,4,2,1,video_search,Useful but can be saturated,bathroom rack|soap holder|toothbrush holder
+home-supplies,Small utility,Adhesive hooks and clips,medium,4,1,1,search_bundle,Good basket-builder but crowded,adhesive hook|clip|cable clip
+womenswear,Everyday tops,Oversized tees and casual tops,medium,4,2,1,video_live,Easy content but many competitors,oversized tee|casual top|blouse
+womenswear,Homewear,House dresses and lounge sets,high,4,2,1,video_live,Comfort-driven repeat demand is strong,house dress|lounge set|pajama wanita
+womenswear,Innerwear,Bras and shapewear,medium,3,1,2,review_led,High demand but trust and fit matter,bra|shapewear|innerwear
+womenswear,Bottoms,Leggings and lounge pants,medium,3,2,1,video_search,Works better as basics than trend-led fashion,legging|palazzo|pants wanita
+womenswear,Plus-size basics,Relaxed fit basics,medium,3,2,1,search_review,Clear measurement communication matters,plus size top|plus size dress|loose pants
+menswear,Tops,T-shirts and polos,medium,3,2,1,video_live,Basic repeat-buy demand is stronger than trend fashion,tee lelaki|polo shirt|oversized tee lelaki
+menswear,Bottoms,Shorts and joggers,medium,3,2,1,video_search,Better as comfort-led basics,shorts lelaki|jogger|cargo short
+menswear,Innerwear,Boxers and socks,high,3,1,1,search_bundle,Bundle logic is strong and returns are manageable,boxer lelaki|socks lelaki|undergarment
+menswear,Muslim menswear,Kurta and baju melayu basics,medium,4,3,1,video_live,Seasonal peaks are stronger than baseline demand,kurta lelaki|baju melayu|jubah lelaki
+menswear,Outer basics,Hoodies and jackets,low,2,3,1,search_only,Climate reduces mass demand versus basics,hoodie lelaki|light jacket|zip jacket
+kids-fashion,School basics,Socks and inner basics,medium,3,1,1,search_bundle,Good repeat-buy but modest upside,school socks|kids innerwear|uniform basic
+kids-fashion,Sleepwear,Kids pajama sets,medium,4,2,1,video_live,Comfort angle plays well with parents,kids pajama|sleepwear kids|pajama set
+kids-fashion,Playwear,Boys and girls matching sets,medium,3,2,1,video_live,Visual but fit complexity remains,kids set|girls set|boys set
+kids-fashion,Baby clothing,Romper and bodysuit basics,low,3,1,3,review_led,Overlap with baby category and quality matters,romper|bodysuit|baby set
+kids-fashion,Accessories,Kids caps and bags,low,3,1,1,search_bundle,Usually add-on rather than hero product,kids cap|kids bag|hairband kids
+shoes,House footwear,Slippers and sandals,high,4,2,1,video_search,Simple sizing and daily-use angle work best,slippers|sandal|selipar
+shoes,Casual footwear,Canvas and casual shoes,medium,3,3,1,video_live,Need strong fit explanation,casual shoes|sneakers|canvas shoes
+shoes,School footwear,Black shoes and socks,medium,3,2,1,search_only,Routine demand but seasonal peaks,school shoes|black shoes|school socks
+shoes,Shoe care,Insoles and cleaners,medium,4,1,1,search_bundle,Accessory route is easier than core footwear,insole|shoe cleaner|shoe deodorizer
+shoes,Sports footwear,Training shoes,low,2,3,1,review_led,Competitive and fit-sensitive,sport shoes|running shoes|gym shoes
+bags,Crossbody,Small daily bags,medium,4,2,1,video_live,Good visual use-case but crowded,crossbody bag|sling bag|mini bag
+bags,Travel,Weekender and travel pouches,medium,4,2,1,video_search,Organizer angle helps,travel bag|travel organizer|packing pouch
+bags,Utility,Lunch and insulated bags,medium,4,1,1,video_search,Clear function improves conversion,lunch bag|cooler bag|insulated bag
+bags,Storage,Cosmetic and toiletry pouches,medium,4,1,1,search_bundle,Good add-on or bundle item,makeup pouch|toiletry bag|zip pouch
+bags,Office and school,Tote and laptop bags,low,3,2,1,search_only,Works better when quality trust is clear,tote bag|laptop bag|school tote
+fashion-accessories,Socks,Plain and themed sock bundles,high,4,1,1,search_bundle,Low ticket and easy bundle,socks|ankle socks|sock bundle
+fashion-accessories,Hair accessories,Clips scrunchies and bands,high,4,1,1,video_search,Visual and impulse-friendly,hair clip|scrunchie|hair band
+fashion-accessories,Belts and wallets,Basic accessories,medium,3,1,1,search_only,Steady but not highly content-led,belt|wallet|card holder
+fashion-accessories,Caps and headwear,Caps and beanies,medium,3,1,1,video_live,Works with outfit matching content,cap|baseball cap|bucket hat
+fashion-accessories,Small jewelry support,Storage and organizer items,low,3,1,1,search_bundle,Useful as add-on but not usually hero item,jewelry box|ring holder|watch box
+sports-outdoors,Fitness accessories,Resistance bands and rollers,high,5,1,1,video_search,Easy function demo and strong content fit,resistance band|yoga block|foam roller
+sports-outdoors,Hydration,Shaker cups and bottles,medium,4,1,1,search_bundle,Useful but competitive,shaker bottle|water bottle|sports bottle
+sports-outdoors,Outdoor utility,Camping lights and mini tools,medium,4,2,1,video_search,Function demo works if compact,camping light|mini torch|outdoor tool
+sports-outdoors,Cycling and running,Gloves sleeves and small gear,medium,3,1,1,search_only,Accessory route is safer than apparel,cycling glove|arm sleeve|running belt
+sports-outdoors,Sports bags,Waist and gym bags,low,3,2,1,video_live,Works with use-case content but not core,gym bag|waist bag|sports pouch
+kitchenware,Dispensers,Oil and seasoning containers,high,5,1,1,video_search,Simple proof-driven kitchen upgrade content,oil dispenser|seasoning bottle|sauce bottle
+kitchenware,Preparation tools,Choppers slicers and peelers,high,5,1,1,video_search,Very strong demo potential,chopper|slicer|peeler
+kitchenware,Storage,Food containers and racks,medium,4,2,1,video_search,Good with organization angle,food container|spice rack|fridge organizer
+kitchenware,Cookware accessories,Pan tools and liners,medium,3,1,1,search_bundle,Better as add-on or bundle,silicone spatula|pan liner|pot handle cover
+kitchenware,Sink and wash,Sink racks and drain tools,medium,4,1,1,video_search,Clear pain-point resolution,sink rack|drain basket|dish holder
+toys-hobbies,Sensory toys,Fidget and tactile items,medium,4,1,1,video_live,Short trend cycles but easy demos,sensory toy|fidget toy|squishy
+toys-hobbies,Educational toys,Learning kits and puzzles,medium,3,1,1,review_led,Parent trust matters more than impulse,educational toy|puzzle|learning kit
+toys-hobbies,Creative hobbies,Craft kits and coloring,medium,4,1,1,video_search,Process content helps,craft kit|coloring kit|diy kit
+toys-hobbies,Novelty toys,Blind boxes and surprise toys,medium,4,1,1,video_live,Novelty can spike but varies,blind box|surprise toy|mini figure
+toys-hobbies,Outdoor play,Bubbles and small activity toys,low,3,1,1,video_live,Seasonal and event-driven,bubble toy|water toy|ball game
+jewelry-accessories,Earrings,Stud and hoop sets,medium,4,1,2,video_search,Low ticket and giftable but trust matters,earring set|stud earring|hoop earring
+jewelry-accessories,Rings,Adjustable ring sets,medium,4,1,2,search_bundle,Bundle-friendly and low cost,ring set|adjustable ring|stacking ring
+jewelry-accessories,Bracelets and necklaces,Layered sets,medium,4,1,2,video_live,Visual but material quality matters,bracelet|necklace set|layered chain
+jewelry-accessories,Brooches and pins,Modest-fashion add-ons,medium,4,1,1,search_bundle,Useful crossover with Muslim fashion,brooch|pin shawl|hijab pin
+jewelry-accessories,Storage and care,Jewelry boxes and wipes,low,3,1,1,search_bundle,Usually accessory to the main category,jewelry box|ring holder|cleaning cloth
+home-improvement,Adhesive solutions,Wall hooks and strips,medium,4,1,1,video_search,Easy use-case demos but saturated,adhesive hook|wall strip|mount tape
+home-improvement,Lighting,LED strips and cabinet lights,medium,4,2,1,video_live,Transformation content can work,led strip|motion light|cabinet light
+home-improvement,Sealing and repair,Door seals and tapes,medium,4,1,1,video_search,Functional demo improves trust,door seal|repair tape|window seal
+home-improvement,Small fixtures,Shelf supports and rails,low,2,2,1,search_only,More practical than impulse,shelf bracket|corner rack|rail holder
+home-improvement,Bathroom upgrades,Shower shelves and holders,medium,4,2,1,video_search,Works when installation is simple,shower rack|toilet shelf|soap shelf
+tools-hardware,Measuring,Tape measures and levels,low,2,1,1,search_only,Narrow but steady utility demand,tape measure|mini level|measuring tool
+tools-hardware,Hand tools,Screwdrivers and pliers,low,2,2,1,search_only,Generic and competitive,screwdriver set|plier|tool kit
+tools-hardware,Drill accessories,Bits and adapters,low,2,1,1,search_only,Need compatibility clarity,drill bit|socket adapter|bit set
+tools-hardware,Cutting and repair,Knives blades and tapes,low,3,1,1,video_search,Utility demo helps but audience is narrower,utility knife|blade|repair tape
+tools-hardware,Fasteners,Hooks screws and anchors,low,2,1,1,search_bundle,Better as complement than hero line,screw set|anchor|hook fastener
+computers-office,Desk setup,Desk mats and organizers,medium,4,1,1,search_bundle,Easier than hardware to sell,desk mat|pen holder|desk organizer
+computers-office,Ergonomics,Laptop stands and risers,medium,4,1,1,video_search,Strong work-study angle,laptop stand|monitor riser|tablet stand
+computers-office,Input devices,Keyboard mouse combos,low,3,1,1,review_led,Need trust on quality,keyboard|mouse|combo set
+computers-office,Cable management,Cable boxes and clips,medium,4,1,1,search_bundle,Useful improvement angle,cable organizer|wire box|cable clip
+computers-office,Study supplies,Portable whiteboards and timers,low,3,1,1,search_only,Niche but clear function,study timer|whiteboard|planner board
+appliances,Cooling,Portable fans,medium,4,2,1,video_search,Strong weather-driven utility,portable fan|desk fan|clip fan
+appliances,Kitchen appliances,Mini blenders and choppers,medium,4,2,1,video_live,Demo-friendly but support risk is higher,mini blender|electric chopper|portable juicer
+appliances,Home cleaning,Handheld vacuums,low,3,2,1,review_led,Need trust on performance,handheld vacuum|mini vacuum|dust cleaner
+appliances,Air and aroma,Humidifiers and diffusers,medium,4,2,1,video_search,Visual effect helps,humidifier|diffuser|aroma machine
+appliances,Garment care,Steamers and lint removers,low,3,2,1,video_search,Useful but slightly support-heavy,garment steamer|lint remover|iron brush
+phones-electronics,Cases and protection,Phone cases and protectors,high,4,1,1,search_bundle,Large volume and easy repeat purchase,phone case|screen protector|camera lens protector
+phones-electronics,Charging,Cables adapters and chargers,high,4,1,1,search_only,Strong demand but quality trust matters,charger|cable|adapter
+phones-electronics,Stands and mounts,Desk and car mounts,medium,4,1,1,video_search,Clear utility and easy demos,phone stand|tablet holder|magnetic mount
+phones-electronics,Audio accessories,Earbuds cases and small audio gear,medium,3,1,1,review_led,Accessory route safer than core devices,earbuds case|mini speaker|headphone stand
+phones-electronics,Power,Power banks and battery accessories,low,3,2,2,review_led,Performance trust and safety matter,power bank|battery case|charging dock
+pet-supplies,Toys,Cat teaser and chew toys,high,5,1,1,video_live,Pet reaction content works well,cat toy|chew toy|feather teaser
+pet-supplies,Feeding,Bowls and feeders,medium,4,2,1,video_search,Useful but somewhat commoditized,pet bowl|auto feeder|water dispenser
+pet-supplies,Grooming,Brushes and wipes,medium,4,1,1,video_search,Clear use-case and repeat-buy potential,pet brush|pet wipes|fur remover
+pet-supplies,Hygiene,Litter and clean-up tools,medium,4,1,1,search_only,Less viral but practical,litter scoop|pee pad|odor bag
+pet-supplies,Travel and wear,Harness and carriers,low,3,2,1,review_led,Fit and comfort matter,harness|pet carrier|leash
+baby-maternity,Feeding,Bibs brushes and feeding tools,low,3,1,4,review_led,Trust and safety matter more than impulse,baby bib|bottle brush|feeding spoon
+baby-maternity,Nursing,Nursing covers and pads,low,3,1,4,search_only,Useful but sensitive trust category,nursing cover|breast pad|pump bag
+baby-maternity,Travel,Stroller hooks and organizers,low,3,1,2,search_only,Accessory route is safer,stroller hook|baby organizer|car seat cover
+baby-maternity,Bath and care,Bath supports and towels,low,3,2,4,review_led,Quality reassurance needed,baby towel|bath support|wash mitt
+baby-maternity,Maternity support,Pillows and belts,low,2,2,4,review_led,Comfort claims need care,maternity pillow|support belt|pregnancy pillow
+automotive,Organization,Seat hooks and trunk organizers,medium,4,1,1,video_search,Accessory route avoids fitment issues,seat hook|trunk organizer|car bin
+automotive,Mounts,Phone holders and dashboards,medium,4,1,1,video_search,Easy use-case demo,car mount|phone holder|dashboard holder
+automotive,Cleaning,Detailing cloths and tools,medium,4,1,1,search_bundle,Practical and low risk,car cloth|detailing brush|cleaning gel
+automotive,Air and comfort,Diffusers and shades,low,3,1,1,video_live,Small impulse niche,car diffuser|sun shade|seat cushion
+automotive,Motorcycle accessories,Helmet and mount accessories,low,3,1,2,search_only,Niche and fit-sensitive,helmet visor|bike mount|mirror accessory
+furniture,Storage furniture,Shoe racks and cube racks,low,3,4,1,search_only,Smaller pieces are better than full furniture,shoe rack|cube rack|small shelf
+furniture,Folding furniture,Folding tables and chairs,low,3,5,1,review_led,Shipping cost and damage risk are real,folding table|folding chair|portable table
+furniture,Bedside and decor,Small stools and shelves,low,2,4,1,search_only,Low impulse and bulky,small stool|bedside shelf|corner shelf
+furniture,Entryway items,Coat racks and benches,low,2,5,1,search_only,Useful but operationally heavy,coat rack|entry bench|umbrella stand
+furniture,Kids small furniture,Study stools and racks,low,2,4,2,review_led,Better later after ops are stable,kids stool|study rack|toy shelf
+collectibles,Blind boxes,Series surprise figures,medium,4,1,1,video_live,Novelty spikes can happen quickly,blind box|surprise figure|mystery box
+collectibles,Figures,Display figurines,low,3,1,1,review_led,Niche and fandom-driven,anime figure|display figure|mini statue
+collectibles,Card-related,Sleeves and storage,medium,3,1,1,search_bundle,Accessory route is safer than expensive cards,card sleeve|binder|top loader
+collectibles,Display accessories,Cases and stands,low,3,1,1,search_only,Useful but smaller audience,display case|acrylic stand|figure shelf
+collectibles,Event merch,Keychains and themed items,low,3,1,1,video_live,Trend- and fandom-driven,keychain merch|fan item|collector pin
+books-audio,Religious books,Quran and Islamic reading aids,low,2,1,1,search_review,Practical use-case beats impulse,religious book|quran|islamic reading
+books-audio,Children education,Workbooks and flash cards,medium,3,1,1,review_led,Parent trust matters more than viral content,workbook|flash card|kids learning
+books-audio,Study and productivity,Planners and journals,low,3,1,1,search_bundle,Closer to stationery behavior,planner|journal|study notebook
+books-audio,Self-help and reading,Popular non-fiction picks,low,2,1,1,search_only,Low social-commerce urgency,self help book|motivational book|reading book
+books-audio,Audio-format niche,Language and recitation aids,low,2,1,1,search_only,Very niche and low frequency,audio recitation|language audio|study audio
+beauty-personal-care,Fragrance,Perfume and body mist,high,4,1,2,video_search,Fragrance and body mist are common MY fast movers when price stays accessible,perfume|parfum|body mist|fragrance mist|deodorant spray|minyak wangi badan|body perfume|body spray|wangi badan|pherowomen|spice me up|phero
+beauty-personal-care,Cleansing,Soap and facial wash,high,4,1,2,video_search,Soap and wash products need direct cleansing keywords for mapping,soap|sabun|facial wash|cleanser|body wash|pinky wash|pencuci|organic wash|sabun padu|sulfur soap
+beauty-personal-care,Sun care,Sunscreen and UV care,high,4,1,2,video_search,Sunscreen is a recurring hero subcategory in MY beauty,sunscreen|uv protection|sunblock|spf
+beauty-personal-care,Nails,Nail color and manicure,medium,3,1,1,search_bundle,Nail color and peel-off polish are low-ticket and impulse-friendly,nail polish|peel off|manicure|nail color
+beauty-personal-care,Feminine care,Sanitary and adult care,medium,3,1,2,search_review,This captures sanitary and adult-care products that were previously unmapped,sanitary pad|pad|lampin dewasa|adult diaper|tuala wanita|panty liner|blood sanitary pads
+home-supplies,Tissue and wipes,Kitchen tissue and paper towels,high,4,1,1,video_search,Disposable tissues and wipes are practical and frequently repeated,tissue|paper towel|tisu|wet wipes|kitchen wipes
+home-supplies,Air care,Diffusers and air fresheners,medium,4,1,1,video_search,Air-care products are strong utility/home refresh items,diffuser|air freshener|pewangi|aromatherapy|reed diffuser|car air freshener|perfume|starry light
+home-supplies,Cleaning liquids,Multi-purpose and toilet cleaners,high,4,1,1,video_search,Cleaning liquids and gels are a major unmapped cluster,multi purpose cleaner|toilet cleaner|dishwash|sunlight|downy|cleaner|pembersih|washing liquid|fabric conditioner
+home-supplies,Pest control,Repellents and baits,medium,3,1,2,search_only,Pest-control products are practical but less content-led,mothballs|roach|ant bait|pest|repellent|mosquito coil|rat repellent|cockroach
+home-supplies,Bath linens,Towels and absorbent cloths,medium,3,1,1,search_bundle,Towels appeared inside home-supplies samples and need a direct bucket,towel|bath towel|absorbent cloth
+textiles,Cushions,Seat cushions and support pillows,medium,3,2,1,search_bundle,Cushion and support-pillow products were a major unmapped group,cushion|pillow|support pillow|seat cushion|lumbar
+textiles,Mats,Tatami and floor mats,medium,3,2,1,search_bundle,Mat and carpet-like textile items need their own niche,tatami|mat|carpet|floor mat
+food-beverages,Tea and herbal drinks,Herbal tea and slimming tea,medium,3,1,5,search_review,Herbal tea products need a separate bucket because compliance is higher,tea|teabag|herbal tea|slimming tea
+food-beverages,Sweets and cereal snacks,Chocojar and cereal snacks,medium,4,1,3,video_search,Sweet jars and cereal-based snacks are common in MY trends,chocojar|cornflakes|cereal|chocolate jar|kek tapak kuda
+food-beverages,Bakery and savory bites,Karipap and pastries,medium,4,1,3,video_live,Savory bite snacks like karipap deserve a direct niche,karipap|pastry|mini pastry|savory snack
+food-beverages,Staples,Rice and pantry basics,low,2,2,1,search_only,Staples can trend but are less ideal for content-led testing,rice|beras|pantry staple
+muslim-fashion,Scarves,Bawal and cotton scarves,high,5,1,1,video_search,Many MY Muslim-fashion winners are scarf-driven rather than full outfits,bawal|cotton scarves|scarves|shawlpublika|chiffon bawal
+muslim-fashion,Inner scarf,Inner tudung and underscarf,high,4,1,1,search_bundle,Inner tudung products need a dedicated niche,inner scarf|inner tudung|anak tudung|ciput
+muslim-fashion,Palazzo and pants,Palazzo muslimah bottoms,medium,4,2,1,video_live,Bottoms and palazzo items appeared in Muslim-fashion winners,palazzo|muslimah pants|slack muslimah
+pet-supplies,Cat litter,Tofu litter and litter care,high,4,1,1,search_bundle,Cat litter and hygiene products are a large practical segment,cat litter|tofu litter|litter|odor control
+pet-supplies,Pet food,Kibble and treats,medium,3,2,2,review_led,Pet-food mapping needs a dedicated bucket because trust matters,cat food|pet food|kibble|treats
+pet-supplies,Beds and cooling mats,Cooling mats and pet beds,medium,3,2,1,search_bundle,Cooling mats and beds were appearing as unmapped winners,cooling mat|pet bed|sofa blanket
+sports-outdoors,Sports apparel,Jerseys and active tops,medium,4,2,1,video_live,Sports apparel was the largest unmapped cluster in this category,jersey|training pants|scuba training|graphic tee|windbreaker|polo|blouse|sweatshirt|sport shirt
+sports-outdoors,Performance bottoms,Sport tights and track pants,medium,4,2,1,video_live,Track pants and tights need their own athletic bottoming niche,track pants|sport tight|legging sport|bootcut pants
+sports-outdoors,Sport underwear,Boxers and training innerwear,low,3,1,1,search_bundle,Sports innerwear appears in this category and should map separately,boxer sukan|sport underwear|training underwear
+sports-outdoors,Outdoor eyewear,Cycling glasses and shades,medium,3,1,1,search_only,Eyewear for cycling and outdoor use appeared in unmapped items,cycling glasses|uv400|sunglasses
+womenswear,Ethnic sets,Kurti suit and dupatta sets,medium,4,2,1,video_live,Ethnic set products appear in the womenswear unmapped bucket,kurti|dupatta|suit|3pcs suit|pant|kurti set
+womenswear,Jeans and denim,Wide-leg and baggy jeans,medium,3,2,1,video_live,Denim and wide-leg pieces appear frequently in womenswear unmapped items,jeans|denim|baggy jeans|wide leg|palazzo|bootcut
+womenswear,Blouses and shirts,Linen and casual shirts,medium,4,1,1,video_live,Blouse and shirt titles need a dedicated landing zone,blouse|shirt|kemeja|linen|waffle blouse|top
+womenswear,Socks and hosiery,Women socks and basics,medium,3,1,1,search_bundle,Socks and basic hosiery are common in womenswear unmapped samples,socks|stokin|cotton socks|women socks|hosiery
+womenswear,Innerwear,Seamless underwear and panties,medium,3,1,2,review_led,Innerwear and panties are a major unmatched cluster,underwear|panties|seamless|high waist|triangle pants
+womenswear,Homewear,Relaxed fits and loungewear,high,4,2,1,video_live,Loungewear and relaxed home sets keep showing up,loungewear|homewear|dress tidur|kaftan tidur|pajama wanita
+muslim-fashion,Sleeves and handsocks,Handsocks and arm covers,high,4,1,1,search_bundle,Handsocks and sleeve accessories are frequent in Muslim-fashion unmapped items,handsock|sarung lengan|lengan|arm cover|arm sleeves
+muslim-fashion,Scarves,Bawal and cotton scarves,high,5,1,1,video_search,Add direct scarf keywords to absorb common shawl/bawal titles,bawal|scarf|shawl|chiffon bawal|cotton scarves|shawlpublica
+muslim-fashion,Modest tees and tops,Muslim T-shirts and casual tops,medium,4,2,1,video_live,T-shirt and jersey style items need a casual modest top bucket,tshirt|t-shirt|jersey|polo|shirt|hidayah|pleated|soft pleated
+pet-supplies,Cat food,Wet food and treats,high,4,1,1,search_review,Wet food and treat products are a large chunk of unmapped pet supply items,wet food|makanan basah|cat food|treats|snek kucing
+pet-supplies,Cat litter,Tofu litter and litter care,high,4,1,1,search_bundle,Cat litter and tray items need a dedicated bucket,cat litter|tofu litter|litter|tray|pee pad|odor control
+pet-supplies,Cat supplements,Boosters and vitamins,medium,3,1,2,review_led,Boosters and vitamin items need a separate pet supplement lane,booster|vitamin|supplement|gemuk|high protein|growth
+pet-supplies,Pet care,Eye drops and grooming spray,medium,3,1,2,search_only,Pet health/eye-care items frequently slip into unmapped rows,eye drops|titis mata|grooming spray|flea spray|pet care
+sports-outdoors,Sports apparel,Jerseys and training pants,high,4,2,1,video_live,Sports apparel is the largest leftover bucket in this category,jersey|tracksuit|training pants|windbreaker|sport shirt|scuba|polo|sweatshirt|plain sweatshirt
+sports-outdoors,Fishing accessories,Rods reels and fishing tackle,high,3,1,1,search_only,Fishing gear is a huge leftover cluster that should not remain unmapped,fishing|joran|pancing|rod|reel|lure|bait|grip|tackle
+sports-outdoors,Performance footwear and shades,Outdoor footwear eyewear and accessories,medium,3,1,1,search_only,Outdoor shoes and sunglasses appear in the remaining unmapped set,sunglasses|cermin mata hitam|uv400|sport shoes|runners|cycling glasses
+sports-outdoors,Training accessories,Grip strength and rope training,medium,4,1,1,video_search,Hand grips and jump ropes are common unmapped training items,hand grip|jump rope|resistance band|training|fitness
+home-supplies,Cleaning liquids,Toilet and multipurpose cleaners,high,4,1,1,video_search,Cleaning liquids and gels need a stronger cluster of keywords,cleaner|pembersih|toilet cleaner|multi-purpose cleaner|dishwash|detergent|stain remover|downy|sunlight
+home-supplies,Air care,Diffusers and air fresheners,medium,4,1,1,video_search,Air-care items are frequent and should be mapped directly,diffuser|air freshener|reed diffuser|pewangi|aroma diffuser|car air freshener
+home-supplies,Pest control,Repellents and baits,medium,3,1,2,search_only,Pest-control items are a major practical household lane,mothballs|roach|ant bait|rat repellent|mosquito coil|pest control
+home-supplies,Hardware and replacement,Screws connectors and pulleys,low,2,1,2,search_only,Replacement hardware and connectors belong in a separate utility lane,screws|connectors|pulley|replacement hardware|accessory screws
+home-supplies,Decor and storage,Artificial flowers and gift boxes,low,2,1,1,search_only,Gift and decor items should not stay unmapped,artificial flower|bouquet|wedding decoration|wooden box|money box
+food-beverages,Sweets and cereal snacks,Chocojar and popcorn,high,4,1,3,video_search,Sweet snack and cereal snack items are a major unmapped group,cornflakes|chocojar|popcorn|caramel popcorn|candy|gula gula|snacks
+food-beverages,Ready meals,Instant rice and ready to eat meals,medium,4,1,2,video_search,Ready meals and instant rice products are a distinct lane,ready to eat|instant meal|nasi goreng|rice|beras|meal
+food-beverages,Canned and pantry,Canned fish and pantry staples,medium,3,2,1,search_only,Canned goods and pantry staples need their own bucket,sardin|canned|tin|pantry|sea salt|salt|rice
+food-beverages,Tea and herbs,Herbal tea and slimming tea,medium,3,1,5,search_review,Tea products need extra compliance awareness,tea|teabag|herbal tea|slimming tea|detox|metabolism
+food-beverages,Local bakery,Karipap and local pastries,high,4,1,3,video_live,Local savory bites should be directly captured,karipap|pastry|mini pastry|kuih|snack|bites
+food-beverages,Protein and ingredients,Seeds and dried foods,medium,3,1,3,search_review,Seeds and dried foods should not remain on the floor of unmapped,chia|seeds|dried petai|petai|sunflower|kuaci|dendeng
+womenswear,Foundation and base makeup,Face powder and stick foundation,medium,4,1,1,video_search,Foundation and powder titles are still part of womenswear-style beauty crossover,foundation|bedak asas|stick foundation|cream foundation|compact powder|powder cake|matte stick
+beauty-personal-care,Foundation and base makeup,Face powder and stick foundation,high,4,1,1,video_search,Base makeup products need a dedicated catch-all row,foundation|bedak asas|stick foundation|cream foundation|compact powder|powder cake|matte stick
+beauty-personal-care,Fragrance extras,Body perfume and pheromone scents,high,4,1,1,video_search,Body fragrance variants and pheromone-style products need a direct lane,body perfume|body spray|minyak wangi badan|pherowomen|spice me up|phero|perfume badan
+beauty-personal-care,Wellness aids,Nasal strips and breathing care,low,2,1,2,search_only,Nasal strips and breathing aids were left unmapped,nasal strips|nose strip|congestion|rhinitis|snore|breathing strip
+food-beverages,Instant meals,Spaghetti and instant pasta,high,4,2,4,video_search,Misspelled spaghetti titles and brand variants need their own lane,spaghetti|spageti|wow spaghetti|mayora|carbonara|bolognese|instant pasta
+food-beverages,Sweets and baked snacks,Cookies and soft bakes,medium,4,1,3,video_search,Cookie and soft-bake titles should not sit in unmapped,cookies|biskut|soft cookies|cookie|biskut lembut|gebu|cair dimulut
+food-beverages,Tea and herbal drinks,Tea powder and taufufa mix,medium,3,1,5,search_review,Taufufa and herbal powder products need a second catch-all lane,teh|tea|halba|taufufa|tau fu fa|serbuk segera|herbal
+home-supplies,Rainwear,Raincoats and rain pants,low,2,1,1,search_only,Rainwear showed up in home-supplies and should be mapped,raincoat|rain jacket|baju hujan|rain pants|motorcycle raincoat|raincoats
+home-supplies,Decor and ritual items,Candles and deepam,low,2,1,1,search_only,Candles and ritual lamps need a decorative bucket,candle|vilaku|deepam|kartigai|lampu minyak
+home-supplies,Storage accessories,Trash bags and storage bags,medium,3,1,1,search_bundle,Trash bag and storage bag items are practical home supply buys,trash bag|drawstring trash bag|garbage bag|waste bag|bin liner|plastic bag
+home-supplies,Decor and storage,Money boxes and savings boxes,low,2,1,1,search_only,Money box and storage gift items are a separate pattern,money box|piggy bank|tabung|savings box|wooden tray|counter
+home-supplies,Party supplies,Snack cups and disposable cups,low,2,1,1,search_only,Popcorn cups and snack cups are packaging/party utilities,popcorn cup|paper cup|snack cup|disposable cup|party cup
+muslim-fashion,Modest dresses,Abaya and dress silhouettes,medium,4,2,1,video_live,Long dresses and brand-name modest fashion need a dedicated row,dress|abaya|madonna|heritage|kaftan|long dress|modest dress
+sports-outdoors,Training tops,Sweatshirts and active blouses,medium,4,1,1,video_live,Sweatshirts and blouse-style sport tops were still unmapped,sweatshirt|cotton plain sweatshirt|blaus wanita|polo|blouse|sports top
+textiles,Support pillows,Posture cushions and bolster pillows,medium,3,2,1,search_bundle,Posture and bolster items are a distinct textile segment,kusyen|cushion|bantal peluk|bantal guling|bantal golek|support pillow|lumbar|ergonomic
+textiles,Curtain accessories,Hooks rings and velcro tape,medium,3,1,1,search_bundle,Curtain hardware and accessories need their own lane,langsir|curtain|ring|hook|velcro|cabinet curtain|drapery
+textiles,Carpets and mats,Carpet and rug mats,medium,3,2,1,search_only,Carpet and rug titles are still common in the textiles bucket,karpet|carpet|rug|mat|tatami|floor mat
+textiles,Alteration accessories,Hemming tape and clothing repair,low,2,1,1,search_only,Alteration products belong in textiles,hemming tape|pita pelekat|shorten|seluar|jeans|modification|tailor
+textiles,Light pillows,Inflatable and travel pillows,low,2,1,1,search_only,Inflatable pillows and travel pillows need a small lane,inflatable pillow|air pillow|travel pillow|bantal angin
+textiles,Repair hardware,Connectors screws and pulleys,low,1,1,1,search_only,Hardware repair bits and connectors were showing up in textile results,connectors|screws|pulley|hardware|replacement
+textiles,Travel pillows,Inflatable and air pillows,low,2,1,1,search_only,Travel pillows and inflatable pillows were the final textile unmapped cluster,inflatable pillow|air pillow|travel pillow|bantal angin|bantal udara
+textiles,Fabric and materials,Thick fabric and textile upgrades,low,2,1,1,search_only,Some textile listings are basically fabric/material upgrades rather than a product shape,fabric|material|thick fabric|extra thick|set kilang|cotton polyester|fabric lebih tebal
+womenswear,Socks and hosiery,Women socks and basics,medium,3,1,1,search_bundle,Some MY womenswear winners are actually sock-led basics,stokin|socks wanita|hosiery
+womenswear,Blouses and shirts,Linen and waffle blouses,medium,4,1,1,video_live,Blouses and linen tops were common unmapped womenswear items,blouse|linen|waffle blouse|kemeja
+womenswear,Jeans and denim,Wide-leg and baggy jeans,medium,3,2,1,video_live,Denim and wide-leg pants need a direct mapping row,jeans|denim|baggy jeans|wide leg

@@ -1,0 +1,28 @@
+category_slug,category_name,priority_tier,content_fit,logistics_risk,notes
+beauty-personal-care,Beauty & Personal Care,priority,5,2,Strong short-video fit and repeat-buy potential.
+muslim-fashion,Muslim Fashion,priority,5,3,Strong local relevance and seasonal demand.
+food-beverages,Food & Beverages,priority,4,3,Impulse-friendly but quality and shelf-life matter.
+health,Health,watch,3,5,Demand exists but compliance is stricter.
+home-supplies,Home Supplies,watch,4,2,Good demonstration potential for small utility items.
+textiles,Textiles & Soft Furnishings,watch,4,3,Home textile is a strong MY category signal and works well with bundles and repeat-buy use cases.
+kitchenware,Kitchenware,watch,4,2,Useful for problem-solution content.
+womenswear,Womenswear,watch,4,4,Large demand but return pressure is higher.
+menswear,Menswear,watch,3,4,Lower content novelty than Muslim fashion.
+kids-fashion,Kids Fashion,watch,3,4,Can work but sizing and returns add friction.
+shoes,Shoes,watch,3,4,High comparison pressure and returns.
+bags,Luggage & Bags,watch,3,3,Travel and organizer angles work better than purely style-led bag listings.
+fashion-accessories,Fashion Accessories,watch,4,2,Affordable and impulse-friendly.
+phones-electronics,Phones & Electronics,cautious,2,5,Strong demand but support and trust burden are high.
+computers-office,Computers & Office Equipment,cautious,2,5,Accessory-led products work better than complex hardware.
+appliances,Household Appliances,cautious,2,5,Small appliances are workable but after-sales risk is much higher than home supplies.
+pet-supplies,Pet Supplies,watch,4,2,Good visual hooks and repeat-buy niches.
+baby-maternity,Baby & Maternity,cautious,3,5,Higher trust and safety expectations.
+toys-hobbies,Toys & Hobbies,watch,4,2,Visual and demo-friendly but trend-driven.
+furniture,Furniture,cautious,1,5,Large-ticket and heavy logistics.
+tools-hardware,Tools & Hardware,cautious,3,4,Niche potential but lower mass appeal.
+home-improvement,Home Improvement,cautious,3,4,Utility demand exists but fit is narrower.
+automotive,Automotive & Motorcycle,cautious,2,5,Fitment and compatibility risk create higher return pressure.
+jewelry-accessories,Jewelry Accessories & Derivatives,watch,4,2,Very visual but crowded and quality trust matters.
+books-audio,"Books, Magazines & Audio",cautious,2,1,Weak short-form commerce fit unless attached to a strong practical or religious use case.
+collectibles,Collectibles,watch,3,3,Niche spikes but inconsistent scale.
+sports-outdoors,Sports & Outdoors,watch,4,3,Works when function is easy to demonstrate.

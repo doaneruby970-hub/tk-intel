@@ -1,0 +1,28 @@
+broad_category_slug,scan_priority,broad_scan_keywords,product_target_per_keyword,shop_target_per_keyword,video_target_per_keyword,live_target_per_keyword,refresh_days,primary_entry_route,scan_note
+beauty-personal-care,core,28,40,12,12,8,3,search+video+live,Track both problem-solution search demand and creator-led proof content
+muslim-fashion,core,26,40,12,12,10,3,video+live+search,Try-on and styling content is often as important as search ranking
+food-beverages,core,24,35,10,10,8,3,search+video+live,Low-ticket repeat-buy items should be scanned for flavor and bundle patterns
+health,watch,18,25,8,8,4,7,search+review,Compliance and trust matter more than raw virality
+textiles,watch,18,25,8,6,3,7,search+video,Bundle logic and room-refresh angle matter more than live intensity
+home-supplies,watch,20,30,10,8,3,7,search+video,Transformation and utility hooks drive this category
+womenswear,watch,18,25,8,8,6,7,video+search,Returns and sizing mean score carefully before expansion
+menswear,watch,16,20,6,6,4,7,search+video,Focus on basics and repeat-buy products
+phones-electronics,watch,18,25,8,6,2,7,search+video,Accessory-led subcategories are safer than complex devices
+pet-supplies,watch,16,24,8,8,5,7,video+search,Reaction content can distort demand so compare with search stability
+sports-outdoors,watch,16,24,8,8,3,7,video+search,Function demo is helpful but seasonality matters
+bags,watch,14,22,7,6,3,7,video+search,Organizer and utility use-cases outperform pure fashion scans
+fashion-accessories,watch,16,28,8,6,2,7,search+shop,Look for bundle behavior and repeat styles
+shoes,watch,14,22,7,6,2,7,search+video,Simple-size and house footwear angles are easier than trend shoes
+kitchenware,watch,16,26,8,8,3,7,video+search,Problem-solution kitchen demos are key
+toys-hobbies,watch,14,22,7,8,4,7,video+search,Trend cycles can be short so snapshot more often when spikes appear
+jewelry-accessories,watch,14,24,7,6,2,7,video+search,Giftability helps but trust and style saturation matter
+kids-fashion,watch,12,20,6,6,3,7,search+video,Keep fit and parent trust in mind
+home-improvement,cautious,10,18,5,4,1,14,search+video,Prefer simple install and small items over hardware-heavy products
+tools-hardware,cautious,8,15,5,3,0,14,search_only,Narrow category where comparison and compatibility matter
+computers-office,cautious,10,18,5,4,1,14,search+video,Desk and cable organization beat technical devices
+appliances,cautious,10,18,5,4,1,14,video+search,Scan compact appliances first and delay heavier items
+baby-maternity,cautious,10,16,5,3,1,14,search+review,Trust and safety signals dominate
+automotive,cautious,8,15,5,3,1,14,search+video,Accessory route only unless fitment is crystal clear
+furniture,late,6,12,3,2,0,30,search_only,Keep visible for mapping but do not invest early scanning effort
+collectibles,watch,10,18,5,6,2,10,video+search,Niche spikes can happen so scan lightly but regularly
+books-audio,late,6,12,3,2,0,30,search_only,Weak social-commerce fit means this stays mapping-only at first

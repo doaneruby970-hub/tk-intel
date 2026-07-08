@@ -1,0 +1,7 @@
+selection_mode,entrypoints,primary_goal,query_pattern,execution_note
+video_search,search|video,Find products with search demand and content proof,keyword -> search results -> linked videos,Start from search ranking then backtrace top linked videos
+video_live,video|live|search,Find categories that depend on creator demonstration and live selling,keyword -> videos -> live rooms -> product pages,Use content-first discovery before evaluating product pages
+search_bundle,search|shop,Find low-ticket bundle and add-on opportunities,keyword -> search -> shop bundle behavior,Check if top shops use bundle pricing or cross-sell packs
+search_live,search|live,Find products with both search intent and live assist,keyword -> search -> live rooms,Look for products ranking in search and repeated in live rooms
+review_led,search|review,Find products where trust and proof matter most,keyword -> search -> review-heavy listings,Prioritize review density and recurring user pain points
+search_only,search|shop,Find practical utility products with lower content dependence,keyword -> search -> shop comparison,Focus on price band and repeated seller offerings
